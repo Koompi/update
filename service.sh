@@ -2,6 +2,6 @@
 
 sudo apt install espeak -y;
 
-espeak "I am git pull is successfull" 
+espeak "Welcome to Koom Pee" 
 #To be listed new updated.
 echo "success" > up.text
